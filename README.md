@@ -13,7 +13,6 @@ My goal is to become a skilled Software Developer and continuously improve my te
 ##Skills
 
 - Python (Learning)
-- Java (Basic)
 - Git & GitHub (Learning)
 - Problem Solving
 
