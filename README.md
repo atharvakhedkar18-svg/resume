@@ -2,7 +2,7 @@
 
 ##About Me
 
-Hello! I am a Computer Engineering student passionate about programming and software development.
+I am a Computer Engineering student passionate about programming and software development.
 
 Currently, I am learning Python and improving my problem-solving skills.
 
@@ -17,5 +17,5 @@ My goal is to become a skilled Software Developer and continuously improve my te
 - Problem Solving
 
 ##Contact
-
+Email- atharvakhedkar18@gmail.com
 GitHub: https://github.com/atharvakhedkar18-svg
